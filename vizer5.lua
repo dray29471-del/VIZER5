@@ -830,7 +830,7 @@ ClearInventoryButton:AddKeyPicker("ClearInventoryBind", { Default = "None", Mode
 DISC:AddButton("CopyDiscordServerLink", {
 	Text = "Copy Link",
 	Func = function()
-		setclipboard("https://discord.gg/rbnrqm99GA")
+		setclipboard("https://discord.gg/VPHMASETx")
 		Library:Notify({ Title = "VIZER", Description = "Link Сopied", Time = 1.5, BigIcon = "info" })
 	end,
 })
